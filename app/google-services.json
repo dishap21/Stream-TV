@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761201413232",
+    "project_id": "streamtv-f38bd",
+    "storage_bucket": "streamtv-f38bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761201413232:android:d48b6b10f08dca3f06f8b5",
+        "android_client_info": {
+          "package_name": "com.example.streamtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761201413232-eiu7ntrts3vjdkgtdunfhl9vmq5cjiga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifmm4pDbqj089lczwgksWMWLO-79q97M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761201413232-eiu7ntrts3vjdkgtdunfhl9vmq5cjiga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
